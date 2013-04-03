@@ -1,5 +1,5 @@
-;alksd;askd'als;das
-;sad;slkdas
+making changes this file
 
-sendong
-noqopiqpw
+to show in github how to add changes
+
+this is line 3 
