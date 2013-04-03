@@ -1,5 +1,7 @@
 making changes this file
 
-to show in github how to add changes
+to show in github how to add cs  adding more text
 
-this is line 3 
+this is line 3 North America
+
+there are more changes here
